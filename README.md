@@ -43,12 +43,13 @@ Non-inverting amplifier:
 
 ## TABULATION:
 
-![WhatsApp Image 2025-10-29 at 10 17 12_a577de80](https://github.com/user-attachments/assets/55107007-a3f8-409f-b9b3-5af462a6e9bb)
+![WhatsApp Image 2025-10-30 at 20 04 14_a850a032](https://github.com/user-attachments/assets/ae23f7f5-0b61-4ed7-99cc-1c1f217d32f8)
 
 
 ## GRAPH:
 
-![WhatsApp Image 2025-10-29 at 10 17 13_a22c36da](https://github.com/user-attachments/assets/dcadd9f7-71f6-4baa-93b4-b56d336ed4c9)
+![WhatsApp Image 2025-10-30 at 20 04 14_ead29bc7](https://github.com/user-attachments/assets/42359cdb-221a-4ddc-a77a-0bb8140d3207)
 
 
 ## RESULT:
+ Thus the non-inverting amplifiers are desined and their performed was successfully tested using op-amp IC741.
